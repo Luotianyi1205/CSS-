@@ -24,7 +24,7 @@
 
 # list2
 
-2.[SS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/1) 
+2.[SS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
 
 
@@ -36,4 +36,4 @@
 background-blend-model
 
 ```
-1.[完整版请点击这里](https://github.com/Luotianyi1205/CSS-/issues/1) 
+1.[完整版请点击这里](https://github.com/Luotianyi1205/CSS-/issues/2) 
