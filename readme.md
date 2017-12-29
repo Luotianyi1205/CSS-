@@ -24,7 +24,7 @@
 
 # list2
 
-[SS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
+[cSS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
 
 
