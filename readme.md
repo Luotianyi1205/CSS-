@@ -40,10 +40,10 @@ background-blend-model
 
 
 # list3
-[使用will-change属性来提高页面的性能](https://github.com/Luotianyi1205/CSS-/issues/2) 
+[使用will-change属性来提高页面的性能](https://github.com/Luotianyi1205/CSS-/issues/3) 
 在CSS动画问世后，WEB页面中终于可以使用CSS来写一写炫酷的动画了，从而引发了一个问题既然有动画了，必然有动画的帧率，帧率越高动画流畅度越好，一切简单的动画帧率可以维持在50-60fps之间，一些复杂的动画帧率就不敢想象了，如何提高帧率来达到动画的流畅呢？？
 我们看下这个属性
 
 will-change
 
-
+![image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1515118305&di=6a93c09f187f0079ba57978ed7832f61&imgtype=jpg&er=1&src=http%3A%2F%2Fs7.sinaimg.cn%2Fmw690%2F006zjds7zy76EeV9h2u66%26amp%3B690)
