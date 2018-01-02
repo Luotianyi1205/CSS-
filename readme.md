@@ -73,5 +73,6 @@ will-change
 
 
 ![](https://user-images.githubusercontent.com/28778154/34475193-a403fd26-efc4-11e7-809e-eb8853067666.png)
+有几种写法呢，我就写出了这几种
 
-[全文](https://github.com/Luotianyi1205/CSS-/issues/5)
+[点我阅读](https://github.com/Luotianyi1205/CSS-/issues/5)
