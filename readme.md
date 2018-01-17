@@ -6,7 +6,7 @@
 
 # list1
 
-[谈谈CSS-倒影的问题](https://github.com/Luotianyi1205/CSS-/issues/1) 
+- [谈谈CSS-倒影的问题](https://github.com/Luotianyi1205/CSS-/issues/1) 
 
 
 
@@ -24,7 +24,7 @@
 
 # list2
 
-[cSS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
+- [cSS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
 
 
@@ -36,7 +36,7 @@
 background-blend-model
 
 ```
-[完整版请点击这里](https://github.com/Luotianyi1205/CSS-/issues/2) 
+- [完整版请点击这里](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
 
 # list3
