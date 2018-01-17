@@ -7,7 +7,8 @@
 # list1
 
 - [谈谈CSS-倒影的问题](https://github.com/Luotianyi1205/CSS-/issues/1) 
-=================================================================================
+=============================================================================
+
 # list2
 
 - [cSS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
@@ -33,6 +34,8 @@ background-blend-model
 will-change
 
 ![image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1515118305&di=6a93c09f187f0079ba57978ed7832f61&imgtype=jpg&er=1&src=http%3A%2F%2Fs7.sinaimg.cn%2Fmw690%2F006zjds7zy76EeV9h2u66%26amp%3B690)
+
+
 =================================================================================
 # list4
 - [对于box-shadow效果的意淫](https://github.com/Luotianyi1205/CSS-/issues/4)
