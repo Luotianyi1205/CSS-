@@ -3,12 +3,12 @@
 
 本系列围绕 CSS 展开，谈一些有趣的话题，内容天马行空，想到什么说什么
 
-# list1
+## list
 
 - [谈谈CSS-倒影的问题](https://github.com/Luotianyi1205/CSS-/issues/1) 
 =============================================================================
 
-# list2
+
 
 - [cSS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
@@ -22,7 +22,7 @@ background-blend-model
 - [完整版请点击这里](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
 =================================================================================
-# list3
+
 [使用will-change属性来提高页面的性能](https://github.com/Luotianyi1205/CSS-/issues/3) 
 
 
@@ -36,7 +36,7 @@ will-change
 
 
 =================================================================================
-# list4
+
 - [对于box-shadow效果的意淫](https://github.com/Luotianyi1205/CSS-/issues/4)
 
 想像不到的box-shadow的效果
@@ -45,7 +45,6 @@ will-change
 ![default](https://user-images.githubusercontent.com/28778154/34472497-b3c86740-ef9e-11e7-9948-6166b3b9994b.PNG)
 
 =================================================================================
-# list5 
 
 请使用一个标签来实现下面的图形
 
@@ -57,7 +56,7 @@ will-change
 - [点我阅读](https://github.com/Luotianyi1205/CSS-/issues/5)
 
 =================================================================================
-# list6
+
 
 解决a标签下滑线与文本重叠的办法
 
