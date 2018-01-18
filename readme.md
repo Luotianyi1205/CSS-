@@ -6,19 +6,14 @@
 ## list
 
 - [谈谈CSS-倒影的问题](https://github.com/Luotianyi1205/CSS-/issues/1) 
-=============================================================================
+
 
 
 
 - [cSS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
-在PS中有一个混合模式，而如今在CSS世界里面也出来了混合模式，做成的效果如下图显示
- 
-应用到代码如下：
-```
-background-blend-model
+在PS中有一个混合模式，而如今在CSS世界里面也出来了混合模式，
 
-```
 - [完整版请点击这里](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
 =================================================================================
@@ -31,9 +26,6 @@ background-blend-model
 我们看下这个属性
 
 will-change
-
-![image](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1515118305&di=6a93c09f187f0079ba57978ed7832f61&imgtype=jpg&er=1&src=http%3A%2F%2Fs7.sinaimg.cn%2Fmw690%2F006zjds7zy76EeV9h2u66%26amp%3B690)
-
 
 =================================================================================
 
