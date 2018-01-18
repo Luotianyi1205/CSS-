@@ -1,4 +1,3 @@
-![image](https://github.com/Luotianyi1205/CSS-/raw/master/logo.jpg)
 
 你想知道的 CSS 奇技淫巧，在这里，都有。
 
@@ -68,7 +67,7 @@ will-change
 
 
 
-有什么解决办法呢，[在这里啊](https://github.com/Luotianyi1205/CSS-/issues/6)
+[在这里啊](https://github.com/Luotianyi1205/CSS-/issues/6)
  =================================================================================
  # list7 神奇的CSS变量
  CSS中存在一个神秘的变量，少有人知自然也不怎么为人所用。它就是crrentColor变量（或者说是CSS关键字，但我觉得称为变量好理解些）
