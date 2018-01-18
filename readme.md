@@ -16,7 +16,7 @@
 
 - [完整版请点击这里](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
-=================================================================================
+
 
 [使用will-change属性来提高页面的性能](https://github.com/Luotianyi1205/CSS-/issues/3) 
 
@@ -27,7 +27,7 @@
 
 will-change
 
-=================================================================================
+
 
 - [对于box-shadow效果的意淫](https://github.com/Luotianyi1205/CSS-/issues/4)
 
@@ -36,7 +36,7 @@ will-change
 
 ![default](https://user-images.githubusercontent.com/28778154/34472497-b3c86740-ef9e-11e7-9948-6166b3b9994b.PNG)
 
-=================================================================================
+
 
 请使用一个标签来实现下面的图形
 
@@ -47,7 +47,7 @@ will-change
 
 - [点我阅读](https://github.com/Luotianyi1205/CSS-/issues/5)
 
-=================================================================================
+
 
 
 解决a标签下滑线与文本重叠的办法
@@ -59,16 +59,16 @@ will-change
 
 
 [在这里啊](https://github.com/Luotianyi1205/CSS-/issues/6)
- =================================================================================
- # list7 神奇的CSS变量
+ 
+ ## list7 神奇的CSS变量
  CSS中存在一个神秘的变量，少有人知自然也不怎么为人所用。它就是crrentColor变量（或者说是CSS关键字，但我觉得称为变量好理解些）
  
  
 - [本文地址](https://github.com/Luotianyi1205/CSS-/issues/7)
    
    
-   =================================================================================
- # list8 结合H5的details summary 做一点零JS折叠展开效果
+  
+ ## list8 结合H5的details summary 做一点零JS折叠展开效果
    ![](https://user-images.githubusercontent.com/28778154/34979638-dc23696c-fadc-11e7-8ded-448b5e335816.png)
  
    - [本文地址](https://github.com/Luotianyi1205/CSS-/issues/8)
