@@ -10,7 +10,7 @@
 
 
 
-- [cSS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
+-  [cSS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
 在PS中有一个混合模式，而如今在CSS世界里面也出来了混合模式，
 
