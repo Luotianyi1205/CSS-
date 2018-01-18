@@ -13,7 +13,7 @@
 - [cSS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
 在PS中有一个混合模式，而如今在CSS世界里面也出来了混合模式，做成的效果如下图显示
- ![image](https://luotianyi1205.github.io/luotianyi.github.io/2017/12/28/%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE%E7%9A%84%E6%B7%B7%E5%90%88%E6%A8%A1%E5%BC%8F-background-blend-mode/a.png)
+ 
 应用到代码如下：
 ```
 background-blend-model
