@@ -12,20 +12,14 @@
 
 -  [cSS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
-在PS中有一个混合模式，而如今在CSS世界里面也出来了混合模式，
 
-- [完整版请点击这里](https://github.com/Luotianyi1205/CSS-/issues/2) 
+- [CSS世界里面也出来了混合模式里](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
 
 
 [使用will-change属性来提高页面的性能](https://github.com/Luotianyi1205/CSS-/issues/3) 
 
 
-在CSS动画问世后，WEB页面中终于可以使用CSS来写一写炫酷的动画
-
-我们看下这个属性
-
-will-change
 
 
 
