@@ -10,20 +10,20 @@
 
 
 
-#### 2 [cSS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
+#### 2.[cSS可以做混合背景了](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
 
-#### 3[CSS世界里面也出来了混合模式里](https://github.com/Luotianyi1205/CSS-/issues/2) 
-
-
-
-#### 4[使用will-change属性来提高页面的性能](https://github.com/Luotianyi1205/CSS-/issues/3) 
+#### 3.[CSS世界里面也出来了混合模式里](https://github.com/Luotianyi1205/CSS-/issues/2) 
 
 
 
+#### 4.[使用will-change属性来提高页面的性能](https://github.com/Luotianyi1205/CSS-/issues/3) 
 
 
-#### 5[对于box-shadow效果的意淫](https://github.com/Luotianyi1205/CSS-/issues/4)
+
+
+
+#### 5.[对于box-shadow效果的意淫](https://github.com/Luotianyi1205/CSS-/issues/4)
 
 想像不到的box-shadow的效果
 
@@ -39,7 +39,7 @@
 
 有几种写法呢，我就写出了这几种
 
-- [点我阅读](https://github.com/Luotianyi1205/CSS-/issues/5)
+#### 6. [点我阅读](https://github.com/Luotianyi1205/CSS-/issues/5)
 
 
 
@@ -54,7 +54,7 @@
 
 [在这里啊](https://github.com/Luotianyi1205/CSS-/issues/6)
  
- ## list7 神奇的CSS变量
+#### 7. 神奇的CSS变量
  CSS中存在一个神秘的变量，少有人知自然也不怎么为人所用。它就是crrentColor变量（或者说是CSS关键字，但我觉得称为变量好理解些）
  
  
@@ -62,12 +62,11 @@
    
    
   
- ## list8 结合H5的details summary 做一点零JS折叠展开效果
+#### 8. 结合H5的details summary 做一点零JS折叠展开效果
    ![](https://user-images.githubusercontent.com/28778154/34979638-dc23696c-fadc-11e7-8ded-448b5e335816.png)
  
    - [本文地址](https://github.com/Luotianyi1205/CSS-/issues/8)
 
- # 2018-1-29 
- ## 使用contenteditable来实现div模拟textarea来达到高度自适应
+#### 9. 使用contenteditable来实现div模拟textarea来达到高度自适应
   - [狠踹这里跳转](https://github.com/Luotianyi1205/CSS-/issues/9)
  
