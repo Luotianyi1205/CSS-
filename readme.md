@@ -5,7 +5,7 @@
 
 
 
-#### 1[谈谈CSS-倒影的问题](https://github.com/Luotianyi1205/CSS-/issues/1) 
+#### 1.[谈谈CSS-倒影的问题](https://github.com/Luotianyi1205/CSS-/issues/1) 
 
 
 
